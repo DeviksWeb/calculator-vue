@@ -1,1 +1,2 @@
-# calculator-vue
+#### Start:
+```npm run serve```
